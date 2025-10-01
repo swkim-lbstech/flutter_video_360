@@ -373,5 +373,6 @@ fabric.properties
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
+.history
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,android,androidstudio,xcode,unity
